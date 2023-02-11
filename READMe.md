@@ -8,6 +8,6 @@
 ## 📚 [_Chapter 02 - Introduction To Coercion_](https://tinyurl.com/coercionss) 
 - 📖 [_Theory Solution_](https://tinyurl.com/2p8fspya) 
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/coercioncode)
-- - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1VLwBOzXOJqO7gafS-jk64ytzUGyKJYC7/view?usp=sharing)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1VLwBOzXOJqO7gafS-jk64ytzUGyKJYC7/view?usp=sharing)
 
  
