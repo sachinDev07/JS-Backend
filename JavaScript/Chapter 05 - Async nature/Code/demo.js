@@ -27,6 +27,7 @@ function timeConsumingByRuntimeFeature2() {
         console.log("Completed the timer2");
     }, 200); // 200 ms timer
 }
+
 console.log("Hi");
 timeConsumingByLoop();
 timeConsumingByRuntimeFeature0();
