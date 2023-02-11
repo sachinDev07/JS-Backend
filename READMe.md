@@ -15,4 +15,11 @@
 - 📖 [_Theory Solution_](https://tinyurl.com/scopesTheory) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1vRezgwmXytXcqNPAOG7xtGhXx9-Mb53Y/view?usp=sharing)
 
+## 📚 [_Chapter 04 - Introduction To Callback & Inversion Of Control_](https://tinyurl.com/callbackAndInversionOfControl) 
+- 👨‍💻 [_Code Solution_](https://tinyurl.com/callbackCode)
+- 📖 [_Theory Solution_](https://tinyurl.com/callbackTheory)  [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1efCCLd3vggFG4vPJnnhwNnM_q5po40XX/view?usp=sharing)
+
+
+
  
