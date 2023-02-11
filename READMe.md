@@ -6,7 +6,7 @@
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/mry4f83t)
 
 ## 📚 [_Chapter 02 - Introduction To Coercion_](https://tinyurl.com/coercionss) 
-- 📖 [_Theory Solution_](https://tinyurl.com/2p8fspya) 
+- 📖 [_Theory Solution_](https://tinyurl.com/ys824c6u) 
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/coercioncode)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1VLwBOzXOJqO7gafS-jk64ytzUGyKJYC7/view?usp=sharing)
 
