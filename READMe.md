@@ -20,6 +20,11 @@
 - 📖 [_Theory Solution_](https://tinyurl.com/callbackTheory)  [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1efCCLd3vggFG4vPJnnhwNnM_q5po40XX/view?usp=sharing)
 
+## 📚 [_Chapter 05 - How Runtime Helps in Async Nature of JS_](https://tinyurl.com/asyncNature) 
+- 👨‍💻 [_Code Solution_](https://tinyurl.com/asyncCode)
+- 📖 [_Theory Solution_](https://tinyurl.com/asyncTheory)  [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1ew8Za_KirMdhYZk2pvajDzaUyLBhjE68/view?usp=sharing)
+
 
 
  
