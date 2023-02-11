@@ -10,4 +10,9 @@
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/coercioncode)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1VLwBOzXOJqO7gafS-jk64ytzUGyKJYC7/view?usp=sharing)
 
+## 📚 [_Chapter 03 - Scopes And Function Expression_](https://tinyurl.com/scopesAndFunctionExpression) 
+- 📖 [_Theory Solution_](https://tinyurl.com/scopesTheory) 
+- 👨‍💻 [_Code Solution_](https://tinyurl.com/scopesCode)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1vRezgwmXytXcqNPAOG7xtGhXx9-Mb53Y/view?usp=sharing)
+
  
