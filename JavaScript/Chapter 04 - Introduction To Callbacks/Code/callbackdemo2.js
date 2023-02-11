@@ -3,7 +3,7 @@ function fun(x, fn) {
         console.log(x);
     }
 
-    fn(x*x);
+    fn(x*x) ;
 }
 
 fun(10, function exec(num) {
