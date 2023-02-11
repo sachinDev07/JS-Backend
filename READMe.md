@@ -13,6 +13,10 @@
 ## 📚 [_Chapter 03 - Scopes And Function Expression_](https://tinyurl.com/scopesAndFunctionExpression) 
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/scopesCode)
 - 📖 [_Theory Solution_](https://tinyurl.com/scopesTheory) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+- 🔍 Scope based problems
+    - [freeCodeCamp problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)
+    - [freeCodeCamp problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
+    - [freeCodeCamp problem](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1vRezgwmXytXcqNPAOG7xtGhXx9-Mb53Y/view?usp=sharing)
 
 ## 📚 [_Chapter 04 - Introduction To Callback & Inversion Of Control_](https://tinyurl.com/callbackAndInversionOfControl) 
