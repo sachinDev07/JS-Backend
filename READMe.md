@@ -29,6 +29,10 @@
 - 📖 [_Theory Solution_](https://tinyurl.com/asyncTheory)  [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1ew8Za_KirMdhYZk2pvajDzaUyLBhjE68/view?usp=sharing)
 
+## 📚 [_Chapter 06 - Introduction To Promises_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2006%20-%20Introduction%20To%20Promises) (Date: 21-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2006%20-%20Introduction%20To%20Promises/Code)
+- 📖 [_Theory Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2006%20-%20Introduction%20To%20Promises/Theory)  [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
 
 
  
