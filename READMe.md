@@ -1,6 +1,8 @@
 # ❤️ BACKEND IN NODEJS 🙏
 ### _[Backend In NodeJs Live Course](https://sanketsingh8670.ongraphy.com/courses/Learn-Backend-In-NodeJS-From-Scratch---December-Batch-63261b48e4b0f3cf8bd9fcbf) from scratch to end 🚀 by [Sanket Singh](https://in.linkedin.com/in/singhsanket143). This repository for Assignment & Class Notes taken during the Live course._
 
+## 📚 Computer Networks Notes
+- 📖 [_Handwritten Notes Link_](https://drive.google.com/file/d/1sixK5Pjb2vs-jVNtwYuRYQk_ZUJkcfut/view?usp=sharing)
 ## 📚 [_Chapter 01 - Operators_](https://tinyurl.com/2p8futts) 
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/mry4f83t)
 - 📖 [_Theory Solution_](https://tinyurl.com/2p8fspya) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
