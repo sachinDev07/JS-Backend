@@ -36,6 +36,10 @@
 - 📖 [_Theory Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2006%20-%20Introduction%20To%20Promises/Theory)  [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1shkT8joyN6bMNiDbyPTLmAOMys6wxv-A/view?usp=sharing)
 
+## 📚 [_Chapter 07 - Part-2 Promises : How to Consume a Promise_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2007%20-%20How%20to%20consume%20a%20promise-%20Part-2) (Date: 23-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2007%20-%20How%20to%20consume%20a%20promise-%20Part-2/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1u4_viuMVeezWrcCGcy4fMPWhSmU5tfJd/view?usp=sharing)
+
 
 
  
