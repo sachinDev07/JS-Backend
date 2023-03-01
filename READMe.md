@@ -40,6 +40,11 @@
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2007%20-%20How%20to%20consume%20a%20promise-%20Part-2/Code)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1u4_viuMVeezWrcCGcy4fMPWhSmU5tfJd/view?usp=sharing)
 
+## 📚 [_Chapter 08 - Part-3 Promises Practice & .then() Concept_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2008%20-%20Part%20-%203%20%20Promises%20practice) (Date: 25-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2008%20-%20Part%20-%203%20%20Promises%20practice/Code)
+- 📖 [_Theory Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2008%20-%20Part%20-%203%20%20Promises%20practice/Theory)  
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1uEFACA5cA5Fbh0i8FnwPqKAi-3tvMP4r/view?usp=sharing)
+
 
 
  
