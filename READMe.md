@@ -3,6 +3,9 @@
 
 ## 📚 Computer Networks Notes
 - 📖 [_Handwritten Notes Link_](https://drive.google.com/file/d/1sixK5Pjb2vs-jVNtwYuRYQk_ZUJkcfut/view?usp=sharing)
+
+## 📚 Namastey JavaScript Notes
+- 📖 [_Handwritten Notes Link_](https://drive.google.com/file/d/1uP0lj8GFqUm5dgUnEo2-dtFdTuMFSrav/view?usp=sharing)
 ## 📚 [_Chapter 01 - Operators_](https://tinyurl.com/2p8futts) 
 - 👨‍💻 [_Code Solution_](https://tinyurl.com/mry4f83t)
 - 📖 [_Theory Solution_](https://tinyurl.com/2p8fspya) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
