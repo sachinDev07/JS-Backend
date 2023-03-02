@@ -51,6 +51,10 @@
 ## 📚 [_Chapter 09 - Part-4 Promises and Callbacks Practice_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2009%20-%20Part%20-%204%20%20Promises%20and%20callbacks%20practice) (Date: 26-02-2023)
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2009%20-%20Part%20-%204%20%20Promises%20and%20callbacks%20practice/Code)
 
+## 📚 [_Chapter 10 - Closures, Iterators and Generators - Road to Async and Await_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2010%20-%20Closures%20-%20Iterators%20and%20Generators) (Date: 28-02-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2010%20-%20Closures%20-%20Iterators%20and%20Generators/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1uJCrxKv4cvO5PL53YOQBk85DGpzrHVNX/view?usp=sharing)
+
 
 
  
