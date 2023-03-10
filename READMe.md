@@ -55,6 +55,9 @@
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2010%20-%20Closures%20-%20Iterators%20and%20Generators/Code)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1uJCrxKv4cvO5PL53YOQBk85DGpzrHVNX/view?usp=sharing)
 
+## 📚 [_Chapter 11 - Async/Await - Try...Catch_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2011%20-%20Async-Await%20-%20Try%20and%20Catch) (Date: 04-03-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2011%20-%20Async-Await%20-%20Try%20and%20Catch/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1maZyIMYM5U7uD5DAcdjQWpLQRWz6Sy54/view?usp=sharing)
 
 
  
