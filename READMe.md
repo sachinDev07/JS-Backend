@@ -61,4 +61,10 @@
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1maZyIMYM5U7uD5DAcdjQWpLQRWz6Sy54/view?usp=sharing)
 
 
+## 📚 Database Management System
+## 📚 [_Introduction To Databases And DBMS_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Introduction%20To%20Databases%20and%20DBMS) (Date: 05-03-2023)
+- 👨‍💻 [_Digital Notes of Live Class_](https://drive.google.com/file/d/120d3D5ZOOA03nfPV1rXm87eeryj4kZWf/view?usp=sharing)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1o3uqXUuyJITDlmq85_9s63URUa0Wm2SY/view?usp=sharing)
+
+
  
