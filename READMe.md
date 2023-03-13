@@ -66,5 +66,10 @@
 - 👨‍💻 [_Digital Notes of Live Class_](https://drive.google.com/file/d/120d3D5ZOOA03nfPV1rXm87eeryj4kZWf/view?usp=sharing)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1o3uqXUuyJITDlmq85_9s63URUa0Wm2SY/view?usp=sharing)
 
+## 📚 [_Chapter 01 - SQL_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/SQL1) (Date: 09-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1062acc_kFyOhv92UFxIlXqUM0SB6C34O/view?usp=sharing)
+- 👨‍💻 [_InterviewBit MySql commands link_](https://www.interviewbit.com/blog/mysql-commands/)
+- 👨‍💻 [_W3 Schools link_](https://www.w3schools.com/mysql/mysql_sql.asp)
+
 
  
