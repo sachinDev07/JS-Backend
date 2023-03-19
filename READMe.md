@@ -71,5 +71,10 @@
 - 👨‍💻 [_InterviewBit MySql commands link_](https://www.interviewbit.com/blog/mysql-commands/)
 - 👨‍💻 [_W3 Schools link_](https://www.w3schools.com/mysql/mysql_sql.asp)
 
+## 📚 [_Chapter 02 - SQL_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/SQL2) (Date: 10-03-2023)
+- 📝 [_Class Notes of Live Class_](https://drive.google.com/file/d/1R9DXkh0waSGqakEvP3Q5AJBgrpaVEloU/view?usp=sharing)
+- 📝 [_Hand Written Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL2/notes.md)
+
+
 
  
