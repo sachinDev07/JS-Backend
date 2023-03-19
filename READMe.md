@@ -77,6 +77,10 @@
 - 📝 [_Hand Written Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL2/notes.md)
 - 📝 [_Good Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL2/SQL2.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
 
+## 📚 [_Chapter 03 - SQL_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/SQL3) (Date: 11-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/14Cctr_PZl6RdsvGOWALANTH8dKB3egq2/view?usp=sharing)
+- 📝 [_Good Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL3/SQL3.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
 
 
  
