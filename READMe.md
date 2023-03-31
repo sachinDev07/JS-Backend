@@ -81,6 +81,10 @@
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/14Cctr_PZl6RdsvGOWALANTH8dKB3egq2/view?usp=sharing)
 - 📝 [_Good Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/SQL3/SQL3.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
 
+## 📚 [_Chapter 04 - Road to Normalisation_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Road%20To%20Normalisation) (Date: 12-03-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/15abeu-izNhzlqF8FSuNspcIQuI9CEvF7/view?usp=sharing)
+- 📝 [_Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/DBMS/Road%20To%20Normalisation/Normalization-I.md) [`Credit - Sajjad S.`](https://www.linkedin.com/in/sajjadsalaria/)
+
 
 
  
