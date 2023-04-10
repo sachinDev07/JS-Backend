@@ -96,7 +96,11 @@
 
 
 ## 📚 Introduction to Node Js
- ## 📚 [_Chapter 01 - Features of NodeJs_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js) (Date: 09-04-2023)
+ ## 📚 [_Chapter 01 - Features of NodeJs_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js) (Date: 06-04-2023)
  - 👨‍💻 [_Digital Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js/globals_node.js)
 - 👨‍💻 [_Digital Notes of Live Class_](https://github.com/Sachin-RJ7/JS-Backend/blob/master/NodeJS/Chapter%2001%20-%20Intro%20To%20Node%20Js/diff_node_browser.js)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1wf0pYl1oa44Kgu_ooejJG8YnAyFCdxO0/view?usp=sharing)
+
+
+ ## 📚 [_Chapter 02 - Modules in NodeJS_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/NodeJS/Chapter%2002%20-%20Modules%20in%20Nodejs) (Date: 09-04-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1qiVFwwrDOnN0Kly2w4ufXDIDflQNkoC2/view?usp=sharing)
