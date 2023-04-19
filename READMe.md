@@ -64,6 +64,10 @@
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2012%20-%20class%2C%20object%2C%20%20this%20keyword/Code)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1mXeun2uPn2cC6u0zfYDltXobLIBBlwb4/view?usp=sharing)
 
+## 📚 [_Chapter 13 - new Keyword, function constructor_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2013%20-%20new%20keyword%2C%20constructor%20function%2C%20private%20variables) (Date: 18-04-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2013%20-%20new%20keyword%2C%20constructor%20function%2C%20private%20variables/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1QHn0tOYcwS7ULruPuDuUCkF3VWqxjmFt/view?usp=sharing)
+
 
 ## 📚 Database Management System
 ## 📚 [_Introduction To Databases And DBMS_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Introduction%20To%20Databases%20and%20DBMS) (Date: 05-03-2023)
