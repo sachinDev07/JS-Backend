@@ -62,7 +62,7 @@
 
 ## 📚 [_Chapter 12 - Class, Object, this keyword_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2012%20-%20class%2C%20object%2C%20%20this%20keyword) (Date: 16-04-2023)
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2012%20-%20class%2C%20object%2C%20%20this%20keyword/Code)
-- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/drive/u/1/folders/1OudfyyAVyTfypsxxSckgZKC82S3rgWxv)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1mXeun2uPn2cC6u0zfYDltXobLIBBlwb4/view?usp=sharing)
 
 
 ## 📚 Database Management System
