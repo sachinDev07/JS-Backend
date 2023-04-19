@@ -60,6 +60,10 @@
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2011%20-%20Async-Await%20-%20Try%20and%20Catch/Code)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1maZyIMYM5U7uD5DAcdjQWpLQRWz6Sy54/view?usp=sharing)
 
+## 📚 [_Chapter 12 - Class, Object, this keyword_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2012%20-%20class%2C%20object%2C%20%20this%20keyword) (Date: 16-04-2023)
+- 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2012%20-%20class%2C%20object%2C%20%20this%20keyword/Code)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/drive/u/1/folders/1OudfyyAVyTfypsxxSckgZKC82S3rgWxv)
+
 
 ## 📚 Database Management System
 ## 📚 [_Introduction To Databases And DBMS_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Introduction%20To%20Databases%20and%20DBMS) (Date: 05-03-2023)
