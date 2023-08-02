@@ -68,6 +68,9 @@
 - 👨‍💻 [_Code Solution_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2013%20-%20new%20keyword%2C%20constructor%20function%2C%20private%20variables/Code)
 - 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1QHn0tOYcwS7ULruPuDuUCkF3VWqxjmFt/view?usp=sharing)
 
+## 📚 [_Chapter 14 - Prototyple based inheritance_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/JavaScript/Chapter%2014%20-%20Prototype%20based%20inheritance) (Date: 23-04-2023)
+- 📝 [_Hand Written Notes of Live Class_](https://drive.google.com/file/d/1duuUqK7K0A3rHEnGuw18oEbF5--10_dl/view?usp=sharing)
+
 
 ## 📚 Database Management System
 ## 📚 [_Introduction To Databases And DBMS_](https://github.com/Sachin-RJ7/JS-Backend/tree/master/DBMS/Introduction%20To%20Databases%20and%20DBMS) (Date: 05-03-2023)
